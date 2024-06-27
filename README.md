@@ -1,5 +1,5 @@
 # このリポジトリについて
-日本製薬工業協会 データサイエンス部会 2023年度のタスクフォースで作成したプログラムです。詳細は[XXXX](https://www.jpma.or.jp/information/evaluation/results/allotment/dummy.html)をご参照ください。
+日本製薬工業協会 データサイエンス部会 2023年度のタスクフォースで作成したプログラムです。詳細は[データマネジメント業務におけるAI活用検討のためのモデル試作](https://www.jpma.or.jp/information/evaluation/results/allotment/DS_202406_AI_Prototype.html)をご参照ください。
 
 
 ## 実行環境
